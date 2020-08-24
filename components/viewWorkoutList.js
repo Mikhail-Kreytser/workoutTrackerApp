@@ -51,7 +51,7 @@ render() {
       	ListEmptyComponent={() =>
 				  <TouchableHighlight style={styles.workout}>
 				    <Text style={styles.title}>
-		        	There are no workouts schedualed
+		        	There are no workouts scheduled
 		      	</Text>
 	 				 </TouchableHighlight>
 	    	}/>
